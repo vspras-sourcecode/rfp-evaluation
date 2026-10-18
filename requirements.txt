@@ -1,0 +1,6 @@
+   streamlit
+   pypdf
+   reportlab
+   anthropic
+   pandas
+   pytest
